@@ -1,0 +1,8 @@
+Name: Pay2Pay Gateway;
+Parent Addon: user-balance;
+Version: 1.1.2;
+Support Core: 16.17.0;
+ItemID: 11872;
+Description: Подключение сайта к платежному агрегатору Pay2Pay http://www.pay2pay.com/;
+Author: Плечев Андрей;
+Author URI: http://codeseller.ru/;
